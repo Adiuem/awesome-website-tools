@@ -7,9 +7,9 @@ This repository is a curated collection of interesting and important websites an
 ## Contents
 
 - [Development Tools](#development-tools)
+- [Internet Database](#internet-database)
 - [Design Resources](#design-resources)
 - [Learning Platforms](#learning-platforms)
-- [Internet Database](#internet-database)
 - [Professional Software](#professional-software)
 - [Productivity Tools](#productivity-tools)
 - [Miscellaneous](#miscellaneous)
@@ -227,7 +227,7 @@ This list gives a more comprehensive guide and links to other sources.
 - [edX](https://www.edx.org) - Free online courses from the world’s best universities and institutions.
 - [Khan Academy](https://www.khanacademy.org) - A nonprofit with the mission to provide a free, world-class education for anyone, anywhere.
 
-## Pofessional Software
+## Professional Software
 These software tools help industries achieve efficiency, accuracy, and scalability, enabling them to stay competitive and meet their specific operational needs.
 
 ### Healthcare
