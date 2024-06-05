@@ -1,6 +1,8 @@
 # Awesome Websites and Tools
 
-A curated list of awesome websites and tools I've found on the internet.
+Welcome to Awesome Websites and Tools! 🎉
+
+This repository is a curated collection of interesting and important websites and tools that I've discovered on the internet. Whether you're a developer, designer, learner, or productivity enthusiast, you'll find valuable resources here to enhance your skills and workflow.
 
 ## Contents
 
