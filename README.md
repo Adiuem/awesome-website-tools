@@ -110,7 +110,7 @@ Here is a list of 100 websites that provide free datasets across various domains
 72. **GloVe**: [GloVe](https://nlp.stanford.edu/projects/glove/)
 73. **Twitter API**: [Twitter API](https://developer.twitter.com/en/docs/twitter-api)
 
-### Miscellaneous
+### Miscellaneous:
 74. **Google Trends**: [Google Trends](https://trends.google.com/trends/)
 75. **Spotify’s Million Playlist Dataset**: [Spotify](https://www.aicrowd.com/challenges/spotify-million-playlist-dataset-challenge)
 76. **OpenAI GPT-3 Dataset**: [OpenAI](https://openai.com/research/gpt-3)
