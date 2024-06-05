@@ -2876,6 +2876,7 @@ Certainly! Here is a continuation with 800 more software tools used across vario
 2008. **Domino Data Lab** - BI Platform
 2009. **Anaconda** - BI Platform
 2010. **C3.ai** - BI Platform
+SEARCH THE ABOVE TOOLS ON GOOGLE FOR MORE INFORMATION.
 
 ## Productivity Tools
 
